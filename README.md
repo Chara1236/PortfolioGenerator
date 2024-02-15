@@ -33,4 +33,4 @@ Rules for stock selection:
 4. $750000 is allocated to buying the stocks.
 5. For simplicitiy a portfolios success should be measured by the absolute difference between the original value of $750000 within 1 week.
 
-The stocks are choosen based of their coorelation to each other and their returns to both minimize cancellation between different stocks and maxmizie expected return/loss.
+The stocks are choosen based of their correlation to each other and their returns to both minimize cancellation between different stocks and maxmizie expected return/loss.
