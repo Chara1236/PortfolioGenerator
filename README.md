@@ -24,6 +24,12 @@ LHO-G
 ### Output
 After you run the program, the stocks/weights choosen will appear in Stocks_Group_8.csv
 
+Furthur more the program will provide you with info as the program runs.
+
+Eg. Shows list of 10 tickers choosen, displays average coorelation, and displays graph so coorelation may be visualized.
+![image](https://github.com/Chara1236/PortfolioGenerator/assets/53840675/14664f32-c252-4783-acd0-db28ffb9b672)
+
+
 ### Theory
 Rules for stock selection:
 
